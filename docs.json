@@ -12,7 +12,7 @@
       },
       {
         "group": "Modules",
-        "pages": ["Module1/Introduction"]
+        "pages": ["Module1/Introduction", "Module2/Introduction"]
       }
     ]
   }
