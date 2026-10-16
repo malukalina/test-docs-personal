@@ -9,6 +9,10 @@
       {
         "group": "Home",
         "pages": ["index"]
+      },
+      {
+        "group": "Modules",
+        "pages": ["Module1/Introduction"]
       }
     ]
   }
