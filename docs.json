@@ -12,8 +12,18 @@
       },
       {
         "group": "Modules",
-        "pages": ["Module1/Introduction", "Module2/Introduction"]
-      }
+        "pages": ["Module Overview",
+            {
+                "group": "Module 1",
+                "pages": ["Module1/Introduction"]
+            },
+            {
+                "group": "Module 2",
+                "pages": ["Module2/Introduction","Module2/Description"]
+            }
+        ]
+        }
     ]
   }
+
 }
